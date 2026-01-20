@@ -1,4 +1,4 @@
-# Australia Real Estate Dataset Sample
+# Australia Real Estate 데이터셋 샘플
 
 <h2>1,000개 레코드의 샘플 데이터셋</h2>
 
